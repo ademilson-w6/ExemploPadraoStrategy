@@ -1,0 +1,1 @@
+![diagrama](StrategyDiagrama.png)
