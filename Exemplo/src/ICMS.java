@@ -7,10 +7,6 @@ public class ICMS implements Imposto{
     }
 
 
-
-
-
-
     @Override
     public double calcular() {
         return this.valor * 0.10;
